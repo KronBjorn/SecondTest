@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button btn=null; //hello
+    Button btn=null; //hello again
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
