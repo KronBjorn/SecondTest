@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecondTest</string>
+
+    <string name="hello_world">Hello Our world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mycol">#ff0055</string>
+</resources>
